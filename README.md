@@ -7,6 +7,8 @@
 
 **CAUTION**: The text in this paper/repo contains offensive and harmful language.}
 
+[**Read TL;DR in our website**](https://sail-lab.org/cognitive-overload-attack-prompt-injection-for-long-context/)
+
 ## Getting Started
 
 This repository consist of the code implementation for our paper "Cognitive Overload Attack : Prompt Injection for Long Context"
