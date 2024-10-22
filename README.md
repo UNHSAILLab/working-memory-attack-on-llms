@@ -61,7 +61,7 @@ For each question in TOTAL_QUESTIONS:
 
 
 1. First, clone this repository:
-```git clone```
+```git clone https://github.com/UNHSAILLab/cognitive-overload-attack.git```
 2. Go to the app folder:
 ```cd streamlit_app_demo```
 3. Install all the dependencies:
@@ -77,7 +77,9 @@ The ```./assets/input_prompt_examples``` folder contains examples showing comple
 
 ### Video Demo of Cognitive Overload Attack
 ---
-![Attack Demo](https://github.com/iBibek/cognitive-overload-attack/blob/main/assets/demo_cognitive_overload_attack.gif?raw)
+![Attack Demo](https://github.com/UNHSAILLab/cognitive-overload-attack/blob/main/assets/demo_cognitive_overload_attack.gif?raw)
+
+
 
 ## Citation
 
