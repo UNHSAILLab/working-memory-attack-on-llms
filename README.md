@@ -1,5 +1,5 @@
 # Working Memory Attack on LLMs
-[![arXiv](https://img.shields.io/badge/arXiv-2312.02119-b31b1b.svg)](https://arxiv.org/abs/2410.11272)  
+[![OpenReview](https://img.shields.io/badge/OpenReview-II0NVPLBcI-blue.svg)](https://openreview.net/forum?id=II0NVPLBcI) [![OpenReview](https://img.shields.io/badge/OpenReview-FS9mwfBQYF-blue.svg)](https://openreview.net/forum?id=FS9mwfBQYF)
 
 ![asr_vs_cl](https://github.com/UNHSAILLab/working-memory-attack-on-llms/blob/main/assets/asr_vs_cl.png?raw=true)
 
