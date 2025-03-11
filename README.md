@@ -76,7 +76,7 @@ The ```./assets/input_prompt_examples``` folder contains examples showing comple
 
 ### Video Demo of Working Memory Attack
 ---
-![Attack Demo](https://github.com/UNHSAILLab/working-memory-attack-on-llms/blob/main/assets/demo_cognitive_overload_attack.gif?raw)
+![Attack Demo](https://github.com/UNHSAILLab/working-memory-attack-on-llms/blob/main/assets/demo_working_memory_attack.gif?raw)
 
 
 
