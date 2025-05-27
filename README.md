@@ -79,7 +79,17 @@ The ```./assets/input_prompt_examples``` folder contains examples showing comple
 ![Attack Demo](https://github.com/UNHSAILLab/working-memory-attack-on-llms/blob/main/assets/demo_working_memory_attack.gif?raw)
 
 
+### Citation
 
+If you find our methodology and data useful, please consider citing it as follows:
+
+```bibtex
+@inproceedings{upadhayay2025working,
+  title={Working memory attack on LLMs},
+  author={Upadhayay, Bibek and Behzadan, Vahid and Karbasi, Amin},
+  booktitle={ICLR 2025 Workshop on Building Trust in Language Models and Applications}
+}
+```
 
 ## Acknowledgments
 The datasets used in this paper are the [Forbidden Question Dataset](https://github.com/verazuo/jailbreak_llms/tree/main) (Shen et al.) and the [JailbreakBench Dataset](https://github.com/JailbreakBench/jailbreakbench) (Chao et al.)
